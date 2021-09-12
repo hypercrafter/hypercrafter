@@ -3,6 +3,7 @@
 - 👀 I’m interested in coding and animating
 - 🌱 I’m currently learning I say it's advanced python.
 - 💞️ I’m looking to collaborate on nothing. Most of my projects are works by me only.
-- Also, you can visit my website at hypercraftermc.wixsite.com/home.
+- Also, you can visit my website at hypercraftermc.wixsite.com/home. 
+- See you!-h'crafter
 
 
