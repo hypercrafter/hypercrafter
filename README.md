@@ -5,5 +5,8 @@
 - 💞️ I’m looking to collaborate on nothing. Most of my projects are works by me only.
 - Also, you can visit my website at hypercraftermc.wixsite.com/home. 
 - See you!-h'crafter
-
+----------------------
+-For verification, here is my hypercrafter code and checker:
+- code: hcrafter-GH
+- checker: https://tinyurl.com/hcrafter-checker
 
