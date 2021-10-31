@@ -2,7 +2,7 @@
 - You can call me hypercrafter, hcrafter, hypercrafter200, hypercrafter.mc
 - 👀 I’m interested in coding and animating
 - I’m not looking to collaborate on anything now. Most of my projects are works by me only.
-- Also, you can visit my website at hypercraftermc.wixsite.com/home. 
+- Also, you can visit my website at https://hypercraftermc.wixsite.com/home. 
 - See you!-h'crafter
 ----------------------
 -For verification, here is my hypercrafter code and checker:
